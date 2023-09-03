@@ -1,0 +1,1 @@
+list_game = ['dota 2', 'rust', 'apex']
